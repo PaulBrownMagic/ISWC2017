@@ -1,3 +1,5 @@
+<script src="assets/reveal.js"></script>
+
 <!-- slide -->
 # [ISWC2017](https://iswc2017.semanticweb.org/program/)
 [Keynotes](#keynotes)
