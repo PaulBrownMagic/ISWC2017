@@ -7,6 +7,7 @@
 [Informal](#informal)
 [Sessions](#sessions)
 [Video Lectures Online](http://videolectures.net/iswc2017_vienna/)
+Slides available at paulbrownmagic.github.io/ISWC2017
 
 <!-- slide id="keynotes" -->
 # Keynotes
