@@ -195,6 +195,7 @@ RESTFUL API, no SPARQL endpoint. Runs on CM-Well.
 [Description Logic](#sdl)
 [Querying](#squery)
 [Languages](#slang)
+[Reasoning](#sreas)
 
 <!-- slide id="onteng" -->
 ## Ontology Engineering
@@ -208,17 +209,18 @@ RESTFUL API, no SPARQL endpoint. Runs on CM-Well.
 
 <!-- slide -->
 ## Ontology Engineering
+**Crowdsourcing Tools**
 - [*A Controlled Crowdsourcing Platform for High-Quality Ontology Development and Data Annotation*](https://iswc2017.semanticweb.org/wp-content/uploads/papers/MainProceedings/139.pdf)
 Yolanda Gil, Daniel Garijo, et al. McKay
 - [*Crowd-based Ontology Engineering with the uComp Protege Plugin*](http://www.semantic-web-journal.net/system/files/swj894.pdf)
 Gerhard Wohlgenannt, Marta Sabou, Florian Hanika
-**Crowdsourcing Tools**
+
 
 <!-- slide -->
 ## Ontology Engineering
 - [*Adapting ontologies to best-practice artifacts using transformation patterns: Method, implementation and use cases*](http://www.websemanticsjournal.org/index.php/ps/article/view/478/494) Vojtěch Svátek, Marek Dudáš, Ondřej Zamazal
-- *The Efficacy of OWL and DL on User Understanding of Axioms and Their Entailments* Alharbi, E., et al.
-- *Sustainable Linked Data generation: the case of DBpedia* Maroy, W., et al.
+- [*The Efficacy of OWL and DL on User Understanding of Axioms and Their Entailments*](https://iswc2017.semanticweb.org/wp-content/uploads/papers/MainProceedings/429.pdf) Alharbi, E., et al.
+- [*Sustainable Linked Data generation: the case of DBpedia*](https://iswc2017.semanticweb.org/wp-content/uploads/papers/MainProceedings/424.pdf) Maroy, W., et al.
 
 <!-- slide id="sdl" -->
 ## Description Logic
@@ -282,6 +284,18 @@ Much less verbose than just SPARQL
 
 <!-- slide vertical="true" -->
 ![SemwidgQL](assets/semwidjql.png)
+
+<!-- slide id="sreas" -->
+## Reasoning
+- [Entity Comparison in RDF Graphs](https://iswc2017.semanticweb.org/wp-content/uploads/papers/MainProceedings/237.pdf) Petrova, A., et al.
+-**Using queries to find deep relationships**
+Brad Pitt and Tom Cruise both had spouses that were actresses and formally married to musicians.
+
+<!-- slide -->
+## Reasoning
+- [Semantic Rule-Based Equipment Diagnostic](https://iswc2017.semanticweb.org/wp-content/uploads/papers/MainProceedings/81.pdf) Mehdi, G., et al.
+-Using an ontology as an abstraction layer between sensors and analysis. *Not just detection* but also **explanation through semantics.**
+- [Distributed Semantic Analytics using the SANSA Stack](https://iswc2017.semanticweb.org/wp-content/uploads/papers/MainProceedings/348.pdf) Lehmann, J., et al.
 
 <!-- slide -->
 # [ISWC2018](http://iswc2018.semanticweb.org/)
