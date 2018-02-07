@@ -1,9 +1,4 @@
----
-presentation:
-  enableSpeakerNotes: true
----
-
-<!-- slide data-notes="Write your note here" -->
+<!-- slide -->
 # [ISWC2017](https://iswc2017.semanticweb.org/program/)
 [Keynotes](#keynotes)
 [Workshops and Tutorials](#wt)
