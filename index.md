@@ -93,30 +93,28 @@ Both keynotes delivered by Pascal Hitzler on Modular Ontologies and Ontology Des
 [WOMoCoE Talks](#wtWOM)
 
 <!-- slide -->
-**Definitions** - Motivation - Challenges
+<small>**Definitions** - Motivation - Challenges</small>
 
 **Modules**: part of an ontology that corresponds
 to a conceptual part of the domain which can
 be summarised under one (key) notion within
-the topic domain. They differ from namespaces as they can nest and overlap.
+the topic domain. Differ from namespaces: they can nest and overlap.
 **Ontology Design Pattern**: a modelling solution to a recurring ontology design problem. Ideally a "best-practice" for a given problem.
 
 <!-- slide data-notes="Shows modules in the chess ontology and AgentRole ODP" -->
-**Definitions** - Motivation - History - Challenges
+<small>**Definitions** - Motivation - Challenges</small>
 ![modules and odp](/assets/modulesodp.png)
 
 <!-- slide -->
-Definitions - **Motivation** - Challenges
-
-- ***Lack of reuse*** of ontologies and linked data. Maybe because they are **hard to read and understand**, despite intention to be readable by humans and machines. Need to focus on human understanding via tools.
+<small>Definitions - **Motivation** - Challenges </small>
+- ***Lack of reuse*** of ontologies and linked data. Maybe because they are **hard to read and understand**. Need to focus on human understanding via tools.
 - ***Experts think about their domains in terms of modules***, not short axioms. Removing modules from an ontology is removing information.
-- **State-of-the-art methods for linking ontologies** barely out-perform linguistic methods, perhaps encoding extra module information could help.
+- **State-of-the-art methods for linking ontologies** barely out-perform linguistic methods, encoding extra module information *could* help.
 
 
 <!-- slide -->
-Definitions - Motivation -  **Challenges**
+<small>Definitions - Motivation - **Challenges**</small>
 
-Initial work by Hitzler on provenance through OPLa, which uses OWL annotations.
 - How should modules be encoded?
 - Need for quality repositories of ODPs.
 - No tool support: hope for visual tool used by DE, allowing KE to add detail.
@@ -135,13 +133,13 @@ Initial work by Hitzler on provenance through OPLa, which uses OWL annotations.
 ![ODP for Activity](/assets/Activity.png)
 
 <!-- slide -->
-## WOP
+## [WOP](http://ontologydesignpatterns.org/wiki/WOP:2017)
 Other talks included:
 - [An Ontology Design Pattern for Microblog Entries](http://ontologydesignpatterns.org/wiki/images/c/ce/Paper-06.pdf) Shimizu, C. & Cheatham, M.
 - [Pattern-Based Ontology Design and Instantiation with Reasonable Ontology Templates](http://ontologydesignpatterns.org/wiki/images/6/66/Paper-04.pdf) Skjæveland, M. et al.
 
 <!-- slide -->
-## WOP
+## [WOP](http://ontologydesignpatterns.org/wiki/WOP:2017)
 Other talks included:
 - [Computational Environment: An ODP to Support Finding and Recreating Computational Analyses](http://ontologydesignpatterns.org/wiki/images/c/c4/Paper-03.pdf) Cheatham, M., Vardeman II, C., Karima, N. & Pascal Hitzler.
 - [*Towards a simple but useful ontology design pattern representation language*](http://ontologydesignpatterns.org/wiki/images/0/0a/Paper-09.pdf) Pascal Hitzler, Aldo Gangemi, et al.
@@ -149,28 +147,27 @@ Other talks included:
 
 
 <!-- slide id="wtWOM" -->
-## WOMoCoE
+## [WOMoCoE](http://dai.fmph.uniba.sk/events/womocoe2017/)
 - J.Cuenca, F.Larrinaga, E.Curry: *A Unified Semantic Ontology for Energy Management Applications*
 **Network ontology linking existing energy ontologies for interoperability. N-ary ODP.**
 - D.Lembo, R.Rosati, V.Santarelli, D.Savo, E.Thorstensen: *Mapping Repair in Ontology-based Data Access Evolving Systems*
 **Ontology-based data access, broken mapping. Repair based on minimum change.**
 
 <!-- slide -->
-## WOMoCoE
+## [WOMoCoE](http://dai.fmph.uniba.sk/events/womocoe2017/)
 - F.Burgstaller, C.Schütz, B.Neumayr, D.Steiner, M.Schrefl: *Towards Contextualized Rule Repositories for the Semantic Web*
 **An application of rules for Notice To Airmen.**
 - A.Zimmermann, J.Giménez-García: *Contextualizing DL Axioms: Formalization, a New Approach, and Its Properties*
 **Adding context to DL with annotations, NDTerms (NDFluents) approach: CA = {validity(a, t), Interval(t) from(t, 609BC), to(t, 539BC)}**
 
 <!-- slide id="wtviola" data-notes="Previously approach used for SPARQL" -->
-# VIOLA
-A.Crotti, C.Debruyne, D.O'Sullivan: *Using a Block Metaphor for Representing R2RML Mappings*
+# [VIOLA](http://voila2017.visualdataweb.org/)
+[*Using a Block Metaphor for Representing R2RML Mappings*](http://ceur-ws.org/Vol-1947/paper01.pdf) A.Crotti, C.Debruyne, D.O'Sullivan
 ![Blockly R2RML](assets/r2rmlblk.png)
 
 
 <!-- slide -->
-T.Dang, P.Murray, R.Etemadpour, A.Forbes: *A User Study of Techniques for Visualizing Structure
-and Connectivity in Hierarchical Datasets*
+[*A User Study of Techniques for Visualizing Structure and Connectivity in Hierarchical Datasets*](http://ceur-ws.org/Vol-1947/paper05.pdf) T.Dang, P.Murray, R.Etemadpour, A.Forbes
 ![Tree Visualisations](assets/treevis.png)
 
 
